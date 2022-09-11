@@ -1,0 +1,1 @@
+"python.exe" lib/calculate.py %*
